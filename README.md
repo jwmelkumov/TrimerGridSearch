@@ -22,7 +22,7 @@ support custom potentials.
 
 ## Install
 ```bash
-pip install TrimerGridSearch
+pip install .
 ```
 
 ## Necessary Input Files
