@@ -1,0 +1,9 @@
+de_max_iter = 10
+de_pop_size = 50   
+de_tol = 1e-4       
+num_samples = 10
+delta = 0.5
+rep_wall = 40        
+minrcom = 2.0
+maxrcom = 12.0      
+writexyzfiles = False
